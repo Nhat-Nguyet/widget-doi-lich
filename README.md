@@ -1,3 +1,5 @@
+> **Kho này đã chuyển.** Widget này nay nằm ở [nhatnguyet-widgets/doi-lich](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/doi-lich), cùng 13 widget khác. Kho này chỉ còn để lưu trữ.
+
 # Đổi lịch âm dương
 
 Chọn một ngày, đổi sang âm lịch kèm can chi, rồi xem luôn giờ hoàng đạo ngày đó.

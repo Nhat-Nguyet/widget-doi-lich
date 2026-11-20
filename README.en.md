@@ -1,3 +1,5 @@
+> **This repository has moved.** This widget now lives in [nhatnguyet-widgets/doi-lich](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/doi-lich), together with the other 13 widgets. This repository is archived.
+
 # Lunar date converter
 
 Pick a date, get the lunar date and sexagenary name, then the auspicious hours for it.
